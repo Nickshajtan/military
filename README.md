@@ -2,7 +2,7 @@
 ###### Live link
 https://tvoya-divisiya.com.ua/ru/
 
-### description
+### Description
 
 Military is my simple special Wordpress Multilingual Landing theme for military history exhibition.
 My client needed to create new site and I created it from scratch based on a PSD template.
@@ -12,7 +12,7 @@ feedback form (including sending as a csv file) is a custom, its code is in the 
 As part of an integrated approach, the WP Yoast SEO plugin was also used with caching and minification plugins. For multilingual I used to Polylang WP plugin.
 Also since the client had no need to support older browsers, I used images with .webp resolution as recommended by Google
 
-### designs
+### Designs
 PSD Template Author Igor Chernienko
 
 ### Necessary plugins for the template to work properly
